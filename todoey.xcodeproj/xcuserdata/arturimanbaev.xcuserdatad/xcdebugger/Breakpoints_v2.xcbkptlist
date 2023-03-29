@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C73D7570-2280-483D-8E14-A34C88326824"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D6AFBE2-F7FF-442F-9420-62FC85B4A5E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todoey/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C543D35-56C3-43A7-9CB4-311B95BDD88E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todoey/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "ToDoViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "todoey/CategoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CategoryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - a1f7a05fefd0bf89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.categoryArray.getter : Swift.Array&lt;todoey.Category&gt;"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - 6ffb8561dd0e6f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.categoryArray.setter : Swift.Array&lt;todoey.Category&gt;"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - 98270792cdcf1374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.categoryArray.modify : Swift.Array&lt;todoey.Category&gt;"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - 757c7c53cd3ba8f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.categoryArray.modify : Swift.Array&lt;todoey.Category&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - d8d89de4effe855b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.init(style: __C.UITableViewStyle) -&gt; todoey.CategoryViewController"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - f832823628a8bdf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; todoey.CategoryViewController"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "950C8F5C-66E6-49C7-B94E-7525339BBEEB - 2fd2304a2ed5a63d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "todoey.CategoryViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;todoey.CategoryViewController&gt;"
+                  moduleName = "todoey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arturimanbaev/Desktop/xcode%20projects/todoey/todoey/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
